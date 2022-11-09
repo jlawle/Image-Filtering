@@ -1,5 +1,5 @@
 # Image-Filtering
-Program implements filtering across ppm images to output a blurred result of the input image. 
+Program implements mean filtering across ppm images to output a blurred result of the input image. 
 
     This program applies a 7 x 7 mean filter in 3 implementations:
        - Basic 2D Convolution
